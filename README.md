@@ -18,5 +18,8 @@ Years WORD 0
 SalaryHistory DWORD 0 ,0 ,0 ,0
 Employee ENDS
 
+For Input and Output Data on Console i am using Irvine32 library...
+
+
 # Muhammad Hamza
 # Namal College Mianwali (UET Campus Lahore)
